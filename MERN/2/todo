@@ -1,0 +1,4 @@
+signup + hash + jwt
+login + jwt
+logout
+auth a few route
